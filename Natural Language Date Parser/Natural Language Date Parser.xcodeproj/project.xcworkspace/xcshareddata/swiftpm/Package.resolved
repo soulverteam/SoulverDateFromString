@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "soulvercore",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/soulverteam/SoulverCore",
+      "state" : {
+        "branch" : "master",
+        "revision" : "457ff4b4bf3ac178ccc9329f751caf0b2ec46671"
+      }
+    }
+  ],
+  "version" : 2
+}
